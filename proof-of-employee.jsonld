@@ -6,7 +6,7 @@
       "id": "@id",
       "type": "@type",
       "ProofOfStudent": {
-        "@id": "https://raw.githubusercontent.com/sujan-shetty71/custom-schema-stu/main/proof-of-employee.jsonld#ProofOfEmployee",
+        "@id": "https://raw.githubusercontent.com/sujan-shetty71/custom-schema-stu/main/proof-of-employee.jsonld#ProofOfStudent",
         "@context": {
           "@version": 1.1,
           "@protected": true,
